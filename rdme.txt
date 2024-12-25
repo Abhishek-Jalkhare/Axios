@@ -1,0 +1,5 @@
+axios is used to get a route content without reloading the page from frontend
+
+axios.get() se get type ka route hit
+
+axios.post() se post type ka route hit
